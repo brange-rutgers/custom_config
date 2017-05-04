@@ -1,0 +1,14 @@
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\custom_config_test.exe.config
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\custom_config_test.exe
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\custom_config_test.pdb
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\custom_config_test.xml
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\obj\Debug\custom_config_test.Resources.resources
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\obj\Debug\custom_config_test.vbproj.GenerateResource.Cache
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\obj\Debug\custom_config_test.exe
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\obj\Debug\custom_config_test.xml
+c:\users\brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\obj\Debug\custom_config_test.pdb
+C:\Users\Brien\documents\visual studio 2013\Projects\custom_config_test\custom_config_test\obj\Debug\custom_config_test.vbprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary1.dll
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary1.pdb
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary2.dll
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary2.pdb

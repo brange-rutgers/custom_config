@@ -1,0 +1,5 @@
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
