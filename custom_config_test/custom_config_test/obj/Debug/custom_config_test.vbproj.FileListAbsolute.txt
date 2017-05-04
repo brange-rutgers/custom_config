@@ -12,3 +12,17 @@ C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_c
 C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary1.pdb
 C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary2.dll
 C:\Users\Brien\Documents\Visual Studio 2013\Projects\custom_config_test\custom_config_test\bin\Debug\ClassLibrary2.pdb
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\custom_config_test.exe.config
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\custom_config_test.exe
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\custom_config_test.pdb
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\custom_config_test.xml
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\ClassLibrary1.dll
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\ClassLibrary2.dll
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\ClassLibrary1.pdb
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\bin\Debug\ClassLibrary2.pdb
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\obj\Debug\custom_config_test.vbprojResolveAssemblyReference.cache
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\obj\Debug\custom_config_test.Resources.resources
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\obj\Debug\custom_config_test.vbproj.GenerateResource.Cache
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\obj\Debug\custom_config_test.exe
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\obj\Debug\custom_config_test.xml
+C:\Users\Brien\OneDrive\Documents\Work\Repos\custom_config\custom_config_test\custom_config_test\obj\Debug\custom_config_test.pdb

@@ -72,5 +72,8 @@ Module Module1
         Dim gui As SomeSettings = config.Sections("dev1")
         Dim gui2 As SomeSettings = config.Sections("dev2")
         Dim fSize As Double = gui.TextSize
+
+        Console.WriteLine(x.foo + y.foo)
+        Console.ReadLine()
     End Sub
 End Module
